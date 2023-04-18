@@ -1,2 +1,2 @@
-# Task_Management_backend
- backend of my task management app creating and handling mongodb database
+# Todo_backend
+ Seperate backend for todo for deployment
